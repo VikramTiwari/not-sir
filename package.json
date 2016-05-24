@@ -1,0 +1,19 @@
+{
+  "name": "not-sir",
+  "version": "0.0.1",
+  "description": "don't call me sir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikramTiwari/not-sir.git"
+  },
+  "author": "Vikram Tiwari <vikramtheone1@gmail.com> (http://vikramtiwari.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VikramTiwari/not-sir/issues"
+  },
+  "homepage": "https://github.com/VikramTiwari/not-sir#readme"
+}
